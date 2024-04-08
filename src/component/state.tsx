@@ -101,7 +101,7 @@ const sculptureList: List[] = [
     artist: 'Taipei Zoo',
     description: 'The Taipei Zoo commissioned a Hippo Square featuring submerged hippos at play.',
     url: 'https://i.imgur.com/6o5Vuyu.jpg',
-    alt: 'A group of bronze hippo sculptures emerging from the sett sidewalk as if they were swimming.'
+    alt: 'A group of bronze hippo sculptures emerging from the sett sidewalk a  s if they were swimming.'
   }
 ]
 

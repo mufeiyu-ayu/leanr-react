@@ -1,12 +1,9 @@
-// import List from './component/list'
-// import Button from './component/even-click'
-import State from './component/state'
+// import ObjectState from './component/State/object'
+import ArrayState from './component/State/array.tsx'
 export default function App() {
   return (
     <>
-      {/*<List />*/}
-      {/*<Button />*/}
-      <State />
+      <ArrayState />
     </>
   )
 }
